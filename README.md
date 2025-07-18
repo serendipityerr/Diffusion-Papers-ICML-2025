@@ -9,17 +9,17 @@
 
 3. **Morse: Dual-Sampling for Lossless Acceleration of Diffusion Models.** [[pdf](https://arxiv.org/pdf/2506.18251)]
 
-4.  **Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion.** [[pdf](https://arxiv.org/pdf/2504.16431)]
+4. **Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion.** [[pdf](https://arxiv.org/pdf/2504.16431)]
 
-5.  **REG: Rectified Gradient Guidance for Conditional Diffusion Models.** [[pdf](https://arxiv.org/pdf/2501.18865)]
+5. **REG: Rectified Gradient Guidance for Conditional Diffusion Models.** [[pdf](https://arxiv.org/pdf/2501.18865)]
 
-6.  **Multidimensional Adaptive Coefficient for Inference Trajectory Optimization in Flow and Diffusion.** [[pdf](https://arxiv.org/pdf/2404.14161)]
+6. **Multidimensional Adaptive Coefficient for Inference Trajectory Optimization in Flow and Diffusion.** [[pdf](https://arxiv.org/pdf/2404.14161)]
 
-7.  **Generalized Interpolating Discrete Diffusion.** [[pdf](https://arxiv.org/pdf/2503.04482)]
+7. **Generalized Interpolating Discrete Diffusion.** [[pdf](https://arxiv.org/pdf/2503.04482)]
 
-8.  **Local Manifold Approximation and Projection for Manifold-Aware Diffusion Planning.** [[pdf](https://arxiv.org/pdf/2506.00867)]
+8. **Local Manifold Approximation and Projection for Manifold-Aware Diffusion Planning.** [[pdf](https://arxiv.org/pdf/2506.00867)]
 
-9.  **Provable Efficiency of Guidance in Diffusion Models for General Data Distribution.** [[pdf](https://arxiv.org/pdf/2505.01382)]
+9. **Provable Efficiency of Guidance in Diffusion Models for General Data Distribution.** [[pdf](https://arxiv.org/pdf/2505.01382)]
 
 10. **A Mixture-Based Framework for Guiding Diffusion Models.** [[pdf](https://arxiv.org/pdf/2502.03332)]
 
@@ -46,15 +46,15 @@
 
 4. **DiTAR: Diffusion Transformer Autoregressive Modeling for Speech Generation.** [[pdf](https://arxiv.org/pdf/2502.03930)]
 
-5.  **Q-VDiT: Towards Accurate Quantization and Distillation of Video-Generation Diffusion Transformers.** [[pdf](https://arxiv.org/pdf/2505.22167)]
+5. **Q-VDiT: Towards Accurate Quantization and Distillation of Video-Generation Diffusion Transformers.** [[pdf](https://arxiv.org/pdf/2505.22167)]
 
-6.  **Large Language Models to Diffusion Finetuning.** [[pdf](https://arxiv.org/pdf/2501.15781)]
+6. **Large Language Models to Diffusion Finetuning.** [[pdf](https://arxiv.org/pdf/2501.15781)]
 
-7.  **Upcycling Text-to-Image Diffusion Models for Multi-Task Capabilities.** [[pdf](https://arxiv.org/pdf/2503.11905)]
+7. **Upcycling Text-to-Image Diffusion Models for Multi-Task Capabilities.** [[pdf](https://arxiv.org/pdf/2503.11905)]
 
-8.  **Spherical-Nested Diffusion Model for Panoramic Image Outpainting.** [[pdf](https://openreview.net/pdf?id=JVDFkVf4QY)]
+8. **Spherical-Nested Diffusion Model for Panoramic Image Outpainting.** [[pdf](https://openreview.net/pdf?id=JVDFkVf4QY)]
 
-9.  **RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers.** [[pdf](https://arxiv.org/pdf/2502.15894)]
+9. **RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers.** [[pdf](https://arxiv.org/pdf/2502.15894)]
 
 10. **A First-order Generative Bilevel Optimization Framework for Diffusion Models.** [[pdf](https://arxiv.org/pdf/2502.08808)]
 
@@ -130,13 +130,13 @@
 
 5. **INRFlow: Flow Matching for INRs in Ambient Space.** [[pdf](https://arxiv.org/pdf/2412.03791)]
 
-6.  **Ensemble Distribution Distillation via Flow Matching.** [[pdf](https://openreview.net/pdf?id=waeJHU2oeI)]
+6. **Ensemble Distribution Distillation via Flow Matching.** [[pdf](https://openreview.net/pdf?id=waeJHU2oeI)]
 
-7.  **Flexible Tails for Normalizing Flows.** [[pdf](https://openreview.net/pdf?id=Z6RsbHAJk5)]
+7. **Flexible Tails for Normalizing Flows.** [[pdf](https://openreview.net/pdf?id=Z6RsbHAJk5)]
 
-8.  **Wasserstein Flow Matching: Generative Modeling Over Families of Distributions.** [[pdf](https://arxiv.org/pdf/2411.00698)]
+8. **Wasserstein Flow Matching: Generative Modeling Over Families of Distributions.** [[pdf](https://arxiv.org/pdf/2411.00698)]
 
-9.  **SDE Matching: Scalable and Simulation-Free Training of Latent Stochastic Differential Equations.** [[pdf](https://arxiv.org/pdf/2502.02472)]
+9. **SDE Matching: Scalable and Simulation-Free Training of Latent Stochastic Differential Equations.** [[pdf](https://arxiv.org/pdf/2502.02472)]
 
 10. **Elucidating Flow Matching ODE Dynamics via Data Geometry and Denoisers.** [[pdf](https://openreview.net/pdf?id=f5czhqYK3H)]
 
@@ -158,49 +158,56 @@
 ### Application
 1. **EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers.** [[pdf](https://openreview.net/pdf?id=vvBAZJh2nQ)]
 
-2.  **FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching.** [[pdf](https://openreview.net/pdf?id=JfLgvNe1tj)]
+2. **FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching.** [[pdf](https://openreview.net/pdf?id=JfLgvNe1tj)]
 
-3.  **DeFoG: Discrete Flow Matching for Graph Generation.** [[pdf](https://openreview.net/pdf?id=KPRIwWhqAZ)]
+3. **DeFoG: Discrete Flow Matching for Graph Generation.** [[pdf](https://openreview.net/pdf?id=KPRIwWhqAZ)]
 
-4.  **One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation.** [[pdf](https://openreview.net/forum?id=riYSkLG0vt)]
-
+4. **One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation.** [[pdf](https://openreview.net/forum?id=riYSkLG0vt)]
 
 
 ## AI4Science (with diffusion or flow)
+
+### With Diffusion
 1. **WyckoffDiff -- A Generative Diffusion Model for Crystal Symmetry.** [[pdf](https://arxiv.org/pdf/2502.06485)]
 
-2.  **Kinetic Langevin Diffusion for Crystalline Materials Generation.** [[pdf](https://arxiv.org/pdf/2507.03602)]
+2. **Kinetic Langevin Diffusion for Crystalline Materials Generation.** [[pdf](https://arxiv.org/pdf/2507.03602)]
 
-3.  **Inverse problems with experiment-guided AlphaFold.** [[pdf](https://arxiv.org/pdf/2502.09372)]
+3. **Inverse problems with experiment-guided AlphaFold.** [[pdf](https://arxiv.org/pdf/2502.09372)]
 
-4.  **All-atom Diffusion Transformers: Unified generative modelling of molecules and materials.** [[pdf](https://openreview.net/pdf?id=89QPmZjIhv)]
+4. **All-atom Diffusion Transformers: Unified generative modelling of molecules and materials.** [[pdf](https://openreview.net/pdf?id=89QPmZjIhv)]
 
-5.  **GenMol: A Drug Discovery Generalist with Discrete Diffusion.** [[pdf](https://openreview.net/pdf?id=KM7pXWG1xj)]
+5. **GenMol: A Drug Discovery Generalist with Discrete Diffusion.** [[pdf](https://openreview.net/pdf?id=KM7pXWG1xj)]
 
-6.  **Diffusion on Language Model Encodings for Protein Sequence Generation.** [[pdf](https://openreview.net/pdf?id=xB9eROwBCB)]
+6. **Diffusion on Language Model Encodings for Protein Sequence Generation.** [[pdf](https://openreview.net/pdf?id=xB9eROwBCB)]
 
-7.  **Bridging Protein Sequences and Microscopy Images with Unified Diffusion Models.** [[pdf](https://openreview.net/pdf?id=r4XfIgD77g)]
+7. **Bridging Protein Sequences and Microscopy Images with Unified Diffusion Models.** [[pdf](https://openreview.net/pdf?id=r4XfIgD77g)]
 
-8.  **Reward-Guided Iterative Refinement in Diffusion Models at Test-Time with Applications to Protein and DNA Design.** [[pdf](https://openreview.net/pdf?id=9qzpNSTUYp)]
+8. **Reward-Guided Iterative Refinement in Diffusion Models at Test-Time with Applications to Protein and DNA Design.** [[pdf](https://openreview.net/pdf?id=9qzpNSTUYp)]
 
-9.  **Open Materials Generation with Stochastic Interpolants.** [[pdf](https://openreview.net/pdf?id=gHGrzxFujU)]
+9. **LDMol: A Text-to-Molecule Diffusion Model with Structurally Informative Latent Space Surpasses AR Models.** [[pdf](https://arxiv.org/pdf/2405.17829)]
 
-10. **CellFlux: Simulating Cellular Morphology Changes via Flow Matching.** [[pdf](https://arxiv.org/pdf/2502.09775)]
+10. **UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design.** [[pdf](https://openreview.net/pdf?id=KUN7A7Okb6)]
 
-11. **All-atom inverse protein folding through discrete flow matching.** [[pdf](https://openreview.net/pdf?id=8tQdwSCJmA)]
+### With Flow
 
-12. **Pretraining Generative Flow Networks with Inexpensive Rewards for Molecular Graph Generation.** [[pdf](https://arxiv.org/pdf/2503.06337)]
+1. **Open Materials Generation with Stochastic Interpolants.** [[pdf](https://openreview.net/pdf?id=gHGrzxFujU)]
 
-13. **Energy-Based Flow Matching for Generating 3D Molecular Structure.** [[pdf](https://openreview.net/pdf?id=hcJWWC82KW)]
+2. **CellFlux: Simulating Cellular Morphology Changes via Flow Matching.** [[pdf](https://arxiv.org/pdf/2502.09775)]
 
-14. **Compositional Flows for 3D Molecule and Synthesis Pathway Co-design.** [[pdf](https://arxiv.org/pdf/2504.08051)]
+3. **All-atom inverse protein folding through discrete flow matching.** [[pdf](https://openreview.net/pdf?id=8tQdwSCJmA)]
 
-15. **Flexibility-conditioned protein structure design with flow matching.** [[pdf](https://openreview.net/pdf?id=890gHX7ieS)]
+4. **Pretraining Generative Flow Networks with Inexpensive Rewards for Molecular Graph Generation.** [[pdf](https://arxiv.org/pdf/2503.06337)]
 
-16. **ReQFlow: Rectified Quaternion Flow for Efficient and High-Quality Protein Backbone Generation.** [[pdf](https://arxiv.org/pdf/2502.14637)]
+5. **Energy-Based Flow Matching for Generating 3D Molecular Structure.** [[pdf](https://openreview.net/pdf?id=hcJWWC82KW)]
 
-17. **Efficient Molecular Conformer Generation with SO(3)-Averaged Flow Matching and Reflow.** [[pdf](https://openreview.net/pdf?id=6uPcJtMgWN)]
+6. **Compositional Flows for 3D Molecule and Synthesis Pathway Co-design.** [[pdf](https://arxiv.org/pdf/2504.08051)]
 
-18. **LDMol: A Text-to-Molecule Diffusion Model with Structurally Informative Latent Space Surpasses AR Models.** [[pdf](https://arxiv.org/pdf/2405.17829)]
+7. **Flexibility-conditioned protein structure design with flow matching.** [[pdf](https://openreview.net/pdf?id=890gHX7ieS)]
 
-19.  **AffinityFlow: Guided Flows for Antibody Affinity Maturation.** [[pdf](https://openreview.net/pdf?id=IEyNrmICas)]
+8. **ReQFlow: Rectified Quaternion Flow for Efficient and High-Quality Protein Backbone Generation.** [[pdf](https://arxiv.org/pdf/2502.14637)]
+
+9. **Efficient Molecular Conformer Generation with SO(3)-Averaged Flow Matching and Reflow.** [[pdf](https://openreview.net/pdf?id=6uPcJtMgWN)]
+
+10. **AffinityFlow: Guided Flows for Antibody Affinity Maturation.** [[pdf](https://openreview.net/pdf?id=IEyNrmICas)]
+
+11. **A Variational Perspective on Generative Protein Fitness Optimization.** [[pdf](https://openreview.net/pdf?id=fINjgBMnTS)]
