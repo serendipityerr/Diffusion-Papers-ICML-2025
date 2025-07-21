@@ -168,46 +168,47 @@
 ## AI4Science (with diffusion or flow)
 
 ### With Diffusion
-1. **WyckoffDiff -- A Generative Diffusion Model for Crystal Symmetry.** [[pdf](https://arxiv.org/pdf/2502.06485)]
+1. **Inverse problems with experiment-guided AlphaFold.** [[pdf](https://arxiv.org/pdf/2502.09372)]
 
-2. **Kinetic Langevin Diffusion for Crystalline Materials Generation.** [[pdf](https://arxiv.org/pdf/2507.03602)]
+2. **Diffusion on Language Model Encodings for Protein Sequence Generation.** [[pdf](https://openreview.net/pdf?id=xB9eROwBCB)]
 
-3. **Inverse problems with experiment-guided AlphaFold.** [[pdf](https://arxiv.org/pdf/2502.09372)]
+3. **Bridging Protein Sequences and Microscopy Images with Unified Diffusion Models.** [[pdf](https://openreview.net/pdf?id=r4XfIgD77g)]
 
-4. **All-atom Diffusion Transformers: Unified generative modelling of molecules and materials.** [[pdf](https://openreview.net/pdf?id=89QPmZjIhv)]
+4. **Reward-Guided Iterative Refinement in Diffusion Models at Test-Time with Applications to Protein and DNA Design.** [[pdf](https://openreview.net/pdf?id=9qzpNSTUYp)]
 
-5. **GenMol: A Drug Discovery Generalist with Discrete Diffusion.** [[pdf](https://openreview.net/pdf?id=KM7pXWG1xj)]
+5. **Kinetic Langevin Diffusion for Crystalline Materials Generation.** [[pdf](https://arxiv.org/pdf/2507.03602)]
 
-6. **Diffusion on Language Model Encodings for Protein Sequence Generation.** [[pdf](https://openreview.net/pdf?id=xB9eROwBCB)]
+6. **WyckoffDiff -- A Generative Diffusion Model for Crystal Symmetry.** [[pdf](https://arxiv.org/pdf/2502.06485)]
 
-7. **Bridging Protein Sequences and Microscopy Images with Unified Diffusion Models.** [[pdf](https://openreview.net/pdf?id=r4XfIgD77g)]
+7. **All-atom Diffusion Transformers: Unified generative modelling of molecules and materials.** [[pdf](https://openreview.net/pdf?id=89QPmZjIhv)]
 
-8. **Reward-Guided Iterative Refinement in Diffusion Models at Test-Time with Applications to Protein and DNA Design.** [[pdf](https://openreview.net/pdf?id=9qzpNSTUYp)]
+8. **GenMol: A Drug Discovery Generalist with Discrete Diffusion.** [[pdf](https://openreview.net/pdf?id=KM7pXWG1xj)]
 
-9. **LDMol: A Text-to-Molecule Diffusion Model with Structurally Informative Latent Space Surpasses AR Models.** [[pdf](https://arxiv.org/pdf/2405.17829)]
+9.  **LDMol: A Text-to-Molecule Diffusion Model with Structurally Informative Latent Space Surpasses AR Models.** [[pdf](https://arxiv.org/pdf/2405.17829)]
 
 10. **UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design.** [[pdf](https://openreview.net/pdf?id=KUN7A7Okb6)]
 
+
 ### With Flow
 
-1. **Open Materials Generation with Stochastic Interpolants.** [[pdf](https://openreview.net/pdf?id=gHGrzxFujU)]
+1. **All-atom inverse protein folding through discrete flow matching.** [[pdf](https://openreview.net/pdf?id=8tQdwSCJmA)]
 
-2. **CellFlux: Simulating Cellular Morphology Changes via Flow Matching.** [[pdf](https://arxiv.org/pdf/2502.09775)]
+2.  **Flexibility-conditioned protein structure design with flow matching.** [[pdf](https://openreview.net/pdf?id=890gHX7ieS)]
 
-3. **All-atom inverse protein folding through discrete flow matching.** [[pdf](https://openreview.net/pdf?id=8tQdwSCJmA)]
+3.  **ReQFlow: Rectified Quaternion Flow for Efficient and High-Quality Protein Backbone Generation.** [[pdf](https://arxiv.org/pdf/2502.14637)]
 
-4. **Pretraining Generative Flow Networks with Inexpensive Rewards for Molecular Graph Generation.** [[pdf](https://arxiv.org/pdf/2503.06337)]
+4.  **A Variational Perspective on Generative Protein Fitness Optimization.** [[pdf](https://openreview.net/pdf?id=fINjgBMnTS)]
 
-5. **Energy-Based Flow Matching for Generating 3D Molecular Structure.** [[pdf](https://openreview.net/pdf?id=hcJWWC82KW)]
+5. **CellFlux: Simulating Cellular Morphology Changes via Flow Matching.** [[pdf](https://arxiv.org/pdf/2502.09775)]
 
-6. **Compositional Flows for 3D Molecule and Synthesis Pathway Co-design.** [[pdf](https://arxiv.org/pdf/2504.08051)]
+6. **Open Materials Generation with Stochastic Interpolants.** [[pdf](https://openreview.net/pdf?id=gHGrzxFujU)]
 
-7. **Flexibility-conditioned protein structure design with flow matching.** [[pdf](https://openreview.net/pdf?id=890gHX7ieS)]
+7. **Pretraining Generative Flow Networks with Inexpensive Rewards for Molecular Graph Generation.** [[pdf](https://arxiv.org/pdf/2503.06337)]
 
-8. **ReQFlow: Rectified Quaternion Flow for Efficient and High-Quality Protein Backbone Generation.** [[pdf](https://arxiv.org/pdf/2502.14637)]
+8. **Energy-Based Flow Matching for Generating 3D Molecular Structure.** [[pdf](https://openreview.net/pdf?id=hcJWWC82KW)]
 
-9. **Efficient Molecular Conformer Generation with SO(3)-Averaged Flow Matching and Reflow.** [[pdf](https://openreview.net/pdf?id=6uPcJtMgWN)]
+9.  **Compositional Flows for 3D Molecule and Synthesis Pathway Co-design.** [[pdf](https://arxiv.org/pdf/2504.08051)]
 
-10. **AffinityFlow: Guided Flows for Antibody Affinity Maturation.** [[pdf](https://openreview.net/pdf?id=IEyNrmICas)]
+10. **Efficient Molecular Conformer Generation with SO(3)-Averaged Flow Matching and Reflow.** [[pdf](https://openreview.net/pdf?id=6uPcJtMgWN)]
 
-11. **A Variational Perspective on Generative Protein Fitness Optimization.** [[pdf](https://openreview.net/pdf?id=fINjgBMnTS)]
+11. **AffinityFlow: Guided Flows for Antibody Affinity Maturation.** [[pdf](https://openreview.net/pdf?id=IEyNrmICas)]
